@@ -1,2 +1,3 @@
 # Wallpapers
-My Wallpaper Colection For The Nord Colorscheme
+
+My set of wallpapers for mutiple styles.
